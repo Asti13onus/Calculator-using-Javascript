@@ -1,0 +1,1 @@
+This code develops a web-based calculator application. The interface includes a display screen and buttons for numbers, basic arithmetic operations, clear, and equals. It uses Bootstrap for styling, Font Awesome for icons, and JavaScript for handling the button inputs and calculations. The current time is displayed at the top of the calculator using a JavaScript function.
